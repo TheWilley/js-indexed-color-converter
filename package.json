@@ -1,7 +1,7 @@
 {
-  "name": "example-typescript-package",
-  "version": "0.2.2",
-  "description": "",
+  "name": "js-indexed-color-converter",
+  "version": "0.1.0",
+  "description": "A javascript transpilation of the PHP library GDIndexedColorConverter, a tool to convert an image into indexed mode",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "umd:main": "dist/umd/index.js",
@@ -28,27 +28,24 @@
     "dist"
   ],
   "keywords": [
-    "example",
+    "transpilation",
+    "library",
     "typescript",
-    "npm",
-    "package",
-    "sample",
-    "boilerplate",
-    "starter",
-    "demo",
-    "cjs",
-    "esm",
-    "umd"
+    "image-processing",
+    "color-conversion",
+    "dithering",
+    "image-manipulation",
+    "indexed-color"
   ],
-  "author": "Tom Chen <tomchen.org@gmail.com>",
+  "author": "TheWilley",
   "license": "MIT",
-  "homepage": "https://github.com/tomchen/example-typescript-package",
+  "homepage": "https://github.com/TheWilley/js-indexed-color-converter",
   "repository": {
     "type": "git",
-    "url": "git@github.com:tomchen/example-typescript-package.git"
+    "url": "git@github.com:TheWilley/js-indexed-color-converter.git"
   },
   "bugs": {
-    "url": "https://github.com/tomchen/example-typescript-package/issues"
+    "url": "https://github.com/TheWilley/js-indexed-color-converter/issues"
   },
   "dependencies": {},
   "devDependencies": {
