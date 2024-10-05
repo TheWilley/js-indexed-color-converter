@@ -1,3 +1,3 @@
-import { Num } from './Num'
+import { JSIndexedColorConverter } from './js-indexed-color-converter'
 
-export { Num }
+export { JSIndexedColorConverter }
